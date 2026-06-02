@@ -6,8 +6,11 @@ To connect computers in multiple networks using Open Shortest Path First Routing
 # EQUIPMENTS REQUIRED
 
 # IP ASSIGNMENT
+<img width="1200" height="1600" alt="WhatsApp Image 2026-06-02 at 7 26 44 PM" src="https://github.com/user-attachments/assets/e098d8d3-9744-4979-a0d5-fba8b2bba171" />
+
 
 # NETWORK DIAGRAM
+<img width="1200" height="1600" alt="WhatsApp Image 2026-06-02 at 7 26 43 PM" src="https://github.com/user-attachments/assets/b30c3292-cf9a-4a60-9f5d-ad07b6e81591" />
 
 
 # PROCEDURE
@@ -23,6 +26,7 @@ STEP 11: Check the routing table in Delhi router and Chennai router using show i
 
 # OUTPUT
 
+<img width="1200" height="1600" alt="WhatsApp Image 2026-06-02 at 7 26 43 PM (1)" src="https://github.com/user-attachments/assets/a54923d9-fd16-4187-b14e-0e14ad6a56f9" />
 
 
 # RESULT
