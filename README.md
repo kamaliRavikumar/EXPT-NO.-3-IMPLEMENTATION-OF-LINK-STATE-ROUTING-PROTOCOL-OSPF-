@@ -4,6 +4,9 @@
 To connect computers in multiple networks using Open Shortest Path First Routing Protocol and to verify the connectivity between computers.
 
 # EQUIPMENTS REQUIRED
+1.Personal computer
+
+2.Cisco packet tracer
 
 # IP ASSIGNMENT
 <img width="1200" height="1600" alt="WhatsApp Image 2026-06-02 at 7 26 44 PM" src="https://github.com/user-attachments/assets/e098d8d3-9744-4979-a0d5-fba8b2bba171" />
